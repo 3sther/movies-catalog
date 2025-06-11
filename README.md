@@ -2,6 +2,10 @@
 
 ## Develop
 
+Setup:
+
+Mark movies-catalog folder as Sources Root
+
 ### Initialization
 
 Activate venv on Windows
